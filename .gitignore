@@ -1,0 +1,4 @@
+ll_env/
+__psycache__/
+*.sqlite3
+.DS_Store
